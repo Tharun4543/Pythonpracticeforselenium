@@ -1,0 +1,15 @@
+# tuple=tuple()
+# print(type(tuple))
+#Example of single variable to store as a tuple collection..
+# tuple=(10,)
+# print(type(tuple))
+tuple1=(10,20,30,40)
+# print(len(tuple))
+# print(max(tuple))
+# print(min(tuple))
+# for i in tuple1:
+#     print(i)
+# print(tuple1.count(20))
+# print(tuple1.index(10))
+tuple2=(30,40,90,100)
+print(tuple1+tuple2)
